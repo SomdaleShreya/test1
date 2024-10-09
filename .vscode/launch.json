@@ -1,0 +1,182 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Gpseries",
+            "request": "launch",
+            "mainClass": "Gpseries",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Aarea",
+            "request": "launch",
+            "mainClass": "Aarea",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Areasides",
+            "request": "launch",
+            "mainClass": "Areasides",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Binary",
+            "request": "launch",
+            "mainClass": "Binary",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Cuboid",
+            "request": "launch",
+            "mainClass": "Cuboid",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "DataSizeRange",
+            "request": "launch",
+            "mainClass": "DataSizeRange",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "DataTypeDetail",
+            "request": "launch",
+            "mainClass": "DataTypeDetail",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Fspecifier",
+            "request": "launch",
+            "mainClass": "Fspecifier",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Learn",
+            "request": "launch",
+            "mainClass": "Learn",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "Methods",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "MyFirst",
+            "request": "launch",
+            "mainClass": "MyFirst",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Myffirst",
+            "request": "launch",
+            "mainClass": "Myffirst",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "One",
+            "request": "launch",
+            "mainClass": "One",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Plus",
+            "request": "launch",
+            "mainClass": "Plus",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Pprime",
+            "request": "launch",
+            "mainClass": "Pprime",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Qua",
+            "request": "launch",
+            "mainClass": "Qua",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Quadratic",
+            "request": "launch",
+            "mainClass": "Quadratic",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Sstring",
+            "request": "launch",
+            "mainClass": "Sstring",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Swapping",
+            "request": "launch",
+            "mainClass": "Swapping",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Trial",
+            "request": "launch",
+            "mainClass": "Trial",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "Welcome",
+            "request": "launch",
+            "mainClass": "Welcome",
+            "projectName": "Java-UDEMY_591a7549"
+        },
+        {
+            "type": "java",
+            "name": "loop",
+            "request": "launch",
+            "mainClass": "loop",
+            "projectName": "Java-UDEMY_591a7549"
+        }
+    ]
+}

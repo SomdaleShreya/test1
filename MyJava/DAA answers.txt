@@ -1,0 +1,44 @@
+### P (Polynomial Time):
+
+1. P refers to the class of decision problems (problems with a yes/no answer) for which an algorithm exists that can solve the problem in polynomial time, where the running time is a polynomial function of the input size.
+2. In simpler terms, if an algorithm can solve a problem efficiently, it belongs to the class P.
+
+### NP (Nondeterministic Polynomial Time):
+
+1. NP refers to the class of decision problems for which a solution can be verified quickly, but the solution itself may not be found quickly.
+2. It is characterized by the property that, given a proposed solution, you can verify its correctness in polynomial time.
+
+### NP-Complete (Nondeterministic Polynomial Time Complete):
+
+1. **Definition:**
+   - NP-complete problems are a subset of problems within the class NP (nondeterministic polynomial time).
+   - These problems are both in NP and are considered among the most difficult problems in NP.
+
+2. **Characteristics:**
+   - Any problem in NP can be reduced to an NP-complete problem in polynomial time.
+   - If an efficient algorithm exists for solving any NP-complete problem, it implies that an efficient algorithm exists for all problems in NP. This property is known as polynomial-time completeness.
+
+3. **Example:**
+   - The Boolean Satisfiability Problem (SAT) is a classic example of an NP-complete problem.
+   - Given a Boolean formula, the question is whether there exists an assignment of truth values to the variables such that the formula evaluates to true.
+
+### NP-Hard (Nondeterministic Polynomial Time Hard):
+
+1. **Definition:**
+   - NP-hard problems are a broader class than NP-complete problems.
+   - An NP-hard problem is, informally, at least as hard as the hardest problems in NP, but it may not necessarily be in NP.
+
+2. **Characteristics:**
+   - Unlike NP-complete problems, there is no requirement for NP-hard problems to be in NP.
+   - NP-hard problems serve as a measure of the inherent difficulty of computational problems.
+
+3. **Example:**
+   - The Halting Problem is a classic example of an NP-hard problem.
+   - Given a description of an arbitrary computer program and an input, the problem is to determine whether the program will eventually halt or continue running indefinitely.
+
+### Relationship:
+
+- **NP-complete ⊆ NP-hard:**
+  - NP-complete problems are a subset of NP-hard problems.
+  - Every NP-complete problem is NP-hard, but not every NP-hard problem is NP-complete.
+  - NP-complete problems have a special status as the hardest problems within NP.
